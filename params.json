@@ -1,0 +1,6 @@
+{
+  "name": "Projectportfolio",
+  "tagline": "This is a list of a few projects I have completed over the course of my undergraduate studies",
+  "body": "### Operating System Dispatcher ( Implemented in Java)\r\nThis is an simulation of an operating system dispatcher that I implemented in Java and took around 800 lines of code. It has a very simple GUI interface that allows the user to simulate the movement of operating system tasks between the ready queue and the CPU. Here is a link to the applet, and here is a link to the source code. \r\n\r\n### Android Applications (Creating using MIT APP inventor)\r\nI created a few basic applications using the MIT app inventor. Feel free to download and try the apps yourself. Here is a link to a few applications I've made.\r\n\r\n### C++ Data Structure Sample ( \"Cousins\" Counter)\r\nFor a data structures and algorithms course I developed a program that would count the number of \"cousins\" of a particularly specified node in a tree data structure. The program took over 200 lines of code and was implemented in C++. Here is the link to the source code which shows my proficiency in working with C++. \r\n\r\n\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
